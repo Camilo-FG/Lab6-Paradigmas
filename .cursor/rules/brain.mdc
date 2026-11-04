@@ -1,0 +1,6 @@
+---
+description: Load the workspace brain at the start of every session
+alwaysApply: true
+---
+
+Follow AGENTS.md in the workspace root, including its Brain section, in every session.
